@@ -1,4 +1,15 @@
-### Hi there 👋
+###  👋
+
+TON blockchain activity:
+* 📊👨‍💻 Building [re:doubt](https://github.com/re-doubt/)
+* 🥈🏆 at [TON Smart Challenge #3](https://github.com/shuva10v/func-contest3-solutions)
+* 🔟🏆 at [TON Smart Challenge #4](https://github.com/shuva10v/tsc4-solutions)
+
+Teaching students:
+* [Java, Spring, microservices](https://github.com/shuva10v/mipt-hsse-java-demo)
+* [Modern C++](https://github.com/shuva10v/mipt-cs-cpp)
+* [Data engineering](https://github.com/shuva10v/yandex-praktikum-de)
+
 
 <!--
 **shuva10v/shuva10v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
