@@ -1,11 +1,12 @@
 ###  👋
 
 TON blockchain activity:
-* 📊👨‍💻 Building [re:doubt](https://github.com/re-doubt/)
+* 💎🏛 Analytics Lead at [TON Foundation](https://ton.org/)
+* 📊👨‍💻 CTO and co-founder [re:doubt](https://github.com/re-doubt/)
 * 🥈🏆 at [TON Smart Challenge #3](https://github.com/shuva10v/func-contest3-solutions)
 * 🔟🏆 at [TON Smart Challenge #4](https://github.com/shuva10v/tsc4-solutions)
 
-Teaching students:
+(In the past) Teaching students:
 * [Java, Spring, microservices](https://github.com/shuva10v/mipt-hsse-java-demo)
 * [Modern C++](https://github.com/shuva10v/mipt-cs-cpp)
 * [Data engineering](https://github.com/shuva10v/yandex-praktikum-de)
