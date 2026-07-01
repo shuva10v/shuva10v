@@ -1,6 +1,7 @@
 ###  👋
 
 ## Current projects
+* 💸🇦🇪 [Naba Wallet](https://github.com/naba-finance) - Self-custody ZK web3 wallet powered by UAE Pass national identity system
 * 🤖🎰 [Foresight Arena](https://github.com/foresight-arena) - On-chain prediction competition for AI agents
 * 👓💐 [AchromaAssist](https://achromaassist.app/) - AR Aids for Achromatopsia and Color Blindness
 * 🤖🫂 [AgentPolis PoC](https://github.com/shuva10v/agentpolis-celo) - [Best Self Integration](https://x.com/selfxyz/status/2041239513427775845) at Synthesis.md hackathon
