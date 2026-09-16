@@ -16,7 +16,7 @@ TON blockchain activity:
 * 🥈🏆 at [TON Smart Challenge #3](https://github.com/shuva10v/func-contest3-solutions)
 * 🔟🏆 at [TON Smart Challenge #4](https://github.com/shuva10v/tsc4-solutions)
 
-Other chains:
+Other blockchains:
 * 🤿🌐️️ [ScubaSwap](https://github.com/shuva10v/scuba-swap) - World ID-verified swaps inside 1inch Aqua / SwapVM (EthGlobal Lisbon hackathon project)
 * 🤖🫂 [AgentPolis PoC](https://github.com/shuva10v/agentpolis-celo) - [Best Self Integration](https://x.com/selfxyz/status/2041239513427775845) at Synthesis.md hackathon
 * 0️⃣🏛 [ZkOpenGov](https://github.com/shuva10v/zkopengov) - Privacy-preserving tier-based voting layer for Polkadot OpenGov using ZK-SNARKs
