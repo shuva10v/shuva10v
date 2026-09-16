@@ -4,7 +4,6 @@
 * 💸🇦🇪 [Naba Wallet](https://github.com/naba-finance) - Self-custody ZK web3 wallet powered by UAE Pass national identity system
 * 🤖🎰 [Foresight Arena](https://github.com/foresight-arena) - On-chain prediction competition for AI agents
 * 👓💐 [AchromaAssist](https://achromaassist.app/) - AR Aids for Achromatopsia and Color Blindness
-* 🤖🫂 [AgentPolis PoC](https://github.com/shuva10v/agentpolis-celo) - [Best Self Integration](https://x.com/selfxyz/status/2041239513427775845) at Synthesis.md hackathon
 
 ## Past projects
 
@@ -16,6 +15,11 @@ TON blockchain activity:
 * 📊👨‍💻 CTO and co-founder [re:doubt](https://github.com/re-doubt/)
 * 🥈🏆 at [TON Smart Challenge #3](https://github.com/shuva10v/func-contest3-solutions)
 * 🔟🏆 at [TON Smart Challenge #4](https://github.com/shuva10v/tsc4-solutions)
+
+Other chains:
+* 🤿🌐️️ [ScubaSwap](https://github.com/shuva10v/scuba-swap) - World ID-verified swaps inside 1inch Aqua / SwapVM (EthGlobal Lisbon hackathon project)
+* 🤖🫂 [AgentPolis PoC](https://github.com/shuva10v/agentpolis-celo) - [Best Self Integration](https://x.com/selfxyz/status/2041239513427775845) at Synthesis.md hackathon
+* 0️⃣🏛 [ZkOpenGov](https://github.com/shuva10v/zkopengov) - Privacy-preserving tier-based voting layer for Polkadot OpenGov using ZK-SNARKs
 
 Teaching students:
 * [Java, Spring, microservices](https://github.com/shuva10v/mipt-hsse-java-demo)
